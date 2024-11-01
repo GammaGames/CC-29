@@ -2,7 +2,11 @@
 
 Inspired by MinUIfied and borrowing some glyphs from the Material Like theme, CC-29 aims to be colorful and easy to use. 
 
-![alt text](preview.png)
+![preview](preview.png)
+
+![explore](explore.png)
+
+![browse](browse.png)
 
 ## Credits
 
